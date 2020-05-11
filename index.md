@@ -13,5 +13,3 @@
  没有迟一步，<br>
  遇上了也只鞥轻轻地说一句：“哦，你也在这里吗”<br>
  ![Mou icon]（https://p0.piqsels.com/preview/391/7/748/china-suzhou-%E9%98%B3%E5%85%89-%E9%A3%8E%E6%99%AF.jpg）
-
-
