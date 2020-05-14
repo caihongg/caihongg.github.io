@@ -9,4 +9,4 @@
 
 [春](spring.md)
 
-<a href="spring.md">春又春来</a>
+<a href="spring.md" color='#33CC66'>春又春来</a>
